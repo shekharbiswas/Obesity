@@ -16,9 +16,9 @@ Data mining techniques can offer precise estimations by analyzing lifestyle and 
 - can we accurately predict an individual's obesity level based on their lifestyle factors?
 - data mining algorithms that perform good in predicting obesity levels ( and specific feature that contribute the most )
 - The datasets contain information about the obesity data in 3 countries:
-- Peru
-- Colombia
-- Mexico
+-- Peru
+-- Colombia
+-- Mexico
 
 It has rought 2k observations with 17 columns.
 
