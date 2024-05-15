@@ -27,3 +27,7 @@ The primary focus of Data Mining:
 - Extract information and validate if they contain values
 - Cluster and check whether the separation is significant
 - Lookout for anomalies, Trends, Outliers
+
+
+[XGBoost Model Slides
+](https://docs.google.com/presentation/d/1CQu-W_Fp8i6Hl38xH8gsQQ332j_PpzwoxeRa_8MAsTs/edit#slide=id.g2db7fcf490b_0_0)
