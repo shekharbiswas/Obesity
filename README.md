@@ -30,4 +30,4 @@ The primary focus of Data Mining:
 
 
 [XGBoost Model Slides
-](https://docs.google.com/presentation/d/1CQu-W_Fp8i6Hl38xH8gsQQ332j_PpzwoxeRa_8MAsTs/edit#slide=id.g2db7fcf490b_0_0)
+](https://docs.google.com/presentation/d/e/2PACX-1vQi52lo4z_h99DRwnLkG9VIQH8m-qNfNyQWRKFT5cgMwOr9WfGdZabqDdqfhud6MgJHJ--X6XG8nRQT/pub?start=false&loop=false&delayms=3000)
